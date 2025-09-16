@@ -1,1 +1,13 @@
-read.me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Pong Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Simple Pong Game</h1>
+    <canvas id="pongCanvas" width="700" height="400"></canvas>
+    <script src="script.js"></script>
+</body>
+</html>
